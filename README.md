@@ -58,7 +58,7 @@ Separate folders for library package, CLI, data, tests
 
 Project Structure:
 
-library-inventory-manager/
+library-inventory-manager-asmit/
 │
 ├── library_manager/
 │   ├── __init__.py
@@ -70,14 +70,21 @@ library-inventory-manager/
 │
 ├── data/
 │   ├── books.json
-|
-|──tests
-│   ├──test_app.py
-|
+│
+├── tests/
+│   ├── test_app.py
+│
+├── images/
+│   ├── folder.png
+│   ├── menu.png
+│   ├── addbook.png
+│   ├── view.png
+│   ├── tests.png
 │
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+
 
 🚀 How to Run the Project
 1️⃣ Step 1: Open Terminal / CMD
@@ -152,3 +159,4 @@ listing catalog
 ### 🧪 5. Unit Test Output 
 
 ![Unit Tests](images/tests.png)
+
