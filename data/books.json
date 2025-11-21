@@ -1,0 +1,20 @@
+[
+    {
+        "title": "harry potter",
+        "author": "J.K. Rowling",
+        "isbn": "1234",
+        "status": "issued"
+    },
+    {
+        "title": "power",
+        "author": "robert greene",
+        "isbn": "9090",
+        "status": "available"
+    },
+    {
+        "title": "python",
+        "author": "guido",
+        "isbn": "12345",
+        "status": "available"
+    }
+]
